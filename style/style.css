@@ -1,0 +1,25 @@
+form{
+    text-align: center;
+}
+.container{
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    background-color: rgba(207, 189, 164, 0.561);
+}
+.game{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: rgba(184, 100, 100, 0.705);
+}
+.block {
+    height: 100px;
+    width: 100px;
+    float: left;
+    border: 1px solid black;
+    box-sizing: border-box;
+    font-size: 5rem;
+    text-align: center;
+}
